@@ -32,7 +32,7 @@ bash install.bash
 ## Import your own templates
 
 1. Prepare your own template first.
-2. Create a `info` file and write some information about your template in it.
+2. Create a `info` file under root directory of the template and write some information about your template in it.
 3. Then place your template folder in `$HOME/.local/share/mkproj/Templates` directory.
 
 Your template should be ready to use now.
