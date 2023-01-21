@@ -15,7 +15,7 @@ cd Project-Maker
 install requirements:
 ```bash
 sudo apt install python3
-# in Termux
+# or in Termux
 pkg install python
 ```
 
@@ -29,7 +29,7 @@ install `mkproj`:
 bash install.bash
 ```
 
-## Import your custom templates
+## Import your own templates
 
 1. Prepare your own template first.
 2. Create a `info` file and write some information about your template in it.
