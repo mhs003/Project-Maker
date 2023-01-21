@@ -44,7 +44,7 @@ Create basic website project:
 mkproj basic-web MySimpleWebsite
 ```
 
-use the command in terminal to view help document:
+View help document:
 ```bash
 mkproj -h
 ```
