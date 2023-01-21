@@ -29,7 +29,7 @@ install `mkproj`:
 bash install.bash
 ```
 
-## Import your own templates
+## import your own templates
 
 1. Prepare your own template first.
 2. Create a `info` file under root directory of the template and write some information about your template in it.
