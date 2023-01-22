@@ -1,6 +1,6 @@
 Project Template Manager
 =========================
-**Project Template Manager** or `mkproj` is a template manager that helps to create project from a template
+**Project Template Manager** is a template manager that helps to create project from a template
 
 ## install
 
@@ -24,20 +24,25 @@ change installer file's permission:
 chmod +x install.bash
 ```
 
-install `mkproj`:
+install:
 ```bash
 bash install.bash
 ```
 
 ## import your own templates
 
-1. Prepare your own template first.
+1. Prepare your template first.
 2. Create a `info` file under root directory of the template and write some information about your template in it.
 3. Then place your template folder in `$HOME/.local/share/mkproj/Templates` directory.
 
 Your template should be ready to use now.
 
 ## usage
+
+Syntax:
+```
+mkproj [TEMPLATE_NAME] [NEW_PROJECT_NAME]
+```
 
 Create basic website project:
 ```bash
