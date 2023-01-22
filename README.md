@@ -1,6 +1,6 @@
-Project Maker
-==============
-Project Maker or `mkproj` helps to create project from a template
+Project Template Manager
+=========================
+**Project Template Manager** or `mkproj` is a template manager that helps to create project from a template
 
 ## install
 
@@ -8,8 +8,8 @@ in **Linux**/**Termux**:
 
 clone the repo:
 ```bash
-git clone https://github.com/mhs003/Project-Maker.git
-cd Project-Maker 
+git clone https://github.com/mhs003/Template-Manager.git
+cd Template-Manager 
 ```
 
 install requirements:
